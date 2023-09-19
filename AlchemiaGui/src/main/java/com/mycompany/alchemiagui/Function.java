@@ -1,3 +1,4 @@
+package com.mycompany.alchemiagui;
 public interface Function {
     abstract double TwillightEffect(int percent);
     abstract double LunarticEffect(int percent);

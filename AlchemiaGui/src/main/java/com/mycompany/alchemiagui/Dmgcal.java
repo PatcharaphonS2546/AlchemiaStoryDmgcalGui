@@ -1,3 +1,4 @@
+package com.mycompany.alchemiagui;
 public class Dmgcal implements Function {
 
     @Override
